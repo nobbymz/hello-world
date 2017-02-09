@@ -1,3 +1,3 @@
 # hello-world
 Tutorial
-I work on a IBM Computer for 36 Jahrs.
+I worked 36 years with IBM computer.
